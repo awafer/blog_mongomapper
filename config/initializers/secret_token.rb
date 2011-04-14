@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-BlogMongomapper::Application.config.secret_token = 'b071957ceaf1d439502547aed4f5ab0d3ae438b23a221223a04b4af78e9a66c49815c6b1eba9125ff8a06087ef2f7350b83e286e25608001e0d6db8689fdda4d'
+BlogMongomapper::Application.config.secret_token = '2df360c8a72937a13bc6573cc63bd253a779e20490810fdab1279c1e29da14cdecfed7366cbe5832af1a2983645831156c1f57fa2190e039a61b83ae068c25b9'
